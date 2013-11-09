@@ -1,4 +1,4 @@
-# cloud-to-butt-mozilla
+# news-to-butt-mozilla
 
 Derived from Chris Wright's derivation [cloud-to-butt-mozilla](https://github.com/DaveRandom/cloud-to-butt-mozilla) from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
